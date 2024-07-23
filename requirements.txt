@@ -1,0 +1,17 @@
+
+# If you plan to interact with Moodle's API in the future
+requests
+
+# For JSON manipulation (though it's part of the standard library)
+# json
+
+# For environment variable management (optional, if needed for configuration)
+python-dotenv
+
+# For advanced data manipulation (optional)
+pandas
+
+# For more complex logging (optional)
+loguru
+
+
